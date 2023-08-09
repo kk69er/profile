@@ -1,0 +1,58 @@
+html{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: 5%;
+  }
+
+  html{
+    font-family: "Sawarabi Mincho";
+    font-size: 35px;
+  }
+  
+  img{
+    border-radius: 50%;
+    }
+  
+  .list{
+    font-size: 30px;
+  }
+  
+  .love{
+    text-align: left;
+    padding-left: 10%;
+    font-size: 25px;
+  }
+  
+  .top wrapper h1{
+    border-bottom:5px white; 
+  }
+  
+  .A{
+    font-size: 50px;
+    text-decoration: underline white 5px;
+    text-align: center;
+  }
+  
+  .goforlink{
+    color:blue
+  }
+  
+  .profile{
+    padding:50px 0 50px 0;
+  }
+  .profile2{
+    padding: 500px 0 50px 0;
+  }
+  
+  .image{
+    size:50%;
+  }
+  
+  .blank{
+    border-top: 1px solid white;
+  }
+  
+  footer{
+    font-size: 15px;
+  }
